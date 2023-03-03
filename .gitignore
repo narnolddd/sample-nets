@@ -1,0 +1,14 @@
+.ipynb_checkpoints
+
+*.gz
+*.html
+*.pptx
+*.pdf
+
+STACKEX
+ER_FILES
+BA_FILES
+InterNaomi
+HepThToNaomi
+ENRON
+FACEBOOK
