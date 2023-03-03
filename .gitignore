@@ -12,3 +12,5 @@ InterNaomi
 HepThToNaomi
 ENRON
 FACEBOOK
+.DS_STORE
+__pycache__
